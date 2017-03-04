@@ -4,7 +4,7 @@ This program was made as a prerequisite for the completion of Udacity's fullstac
 
 ## Installation and Usage
 
-Clone this repository to your local folder and open the index.html in the root (or dist) folder. Another way to see this project is to open the [github pages of this project](https://wahidyankf.github.io/udacity_fullstack_p02_build_a_portfolio_site).
+Clone this repository to your local folder and open the index.html in the dist folder. Another way to see this project is to open the [github pages of this project](https://wahidyankf.github.io/udacity_fullstack_p02_build_a_portfolio_site/index.html).
 
 ## Licence
 
